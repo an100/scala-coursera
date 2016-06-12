@@ -14,10 +14,7 @@ project/plugins/project/
 
 # IntelliJ IDEA
 .idea
-project
-target
 *.iml
 *.ipr
 *.iws
 out
-
