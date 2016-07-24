@@ -6,7 +6,7 @@ env:
     - PROJECT=example
     - PROJECT=recfun
     - PROJECT=funsets
-    - PROJECT=objset
+    - PROJECT=objsets
 
 script:
     - cd $PROJECT && sbt ++$TRAVIS_SCALA_VERSION test
